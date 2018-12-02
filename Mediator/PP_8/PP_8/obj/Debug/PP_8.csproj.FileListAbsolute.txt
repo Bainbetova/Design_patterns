@@ -1,0 +1,6 @@
+C:\Users\student\Documents\Visual Studio 2017\Projects\PP_8\PP_8\bin\Debug\PP_8.exe.config
+C:\Users\student\Documents\Visual Studio 2017\Projects\PP_8\PP_8\obj\Debug\PP_8.csprojResolveAssemblyReference.cache
+C:\Users\student\Documents\Visual Studio 2017\Projects\PP_8\PP_8\bin\Debug\PP_8.exe
+C:\Users\student\Documents\Visual Studio 2017\Projects\PP_8\PP_8\bin\Debug\PP_8.pdb
+C:\Users\student\Documents\Visual Studio 2017\Projects\PP_8\PP_8\obj\Debug\PP_8.exe
+C:\Users\student\Documents\Visual Studio 2017\Projects\PP_8\PP_8\obj\Debug\PP_8.pdb
